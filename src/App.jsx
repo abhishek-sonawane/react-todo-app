@@ -51,7 +51,7 @@ function App() {
               Chakra UI
               </Link>
               <br />
-              coded by <Link color='#e62a6c' >abhishek</Link>
+              coded by <Link href='https://github.com/abhishek-sonawane' color='#e62a6c' >abhishek</Link>
             </Text>
           </Box>
        </div>

@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "homepage": "https://abhishek-sonawane.github.io/react-todo-app/",
   "description": "",
-  "source": "src/index.html",
+  "source": "/public/index.html",
   "scripts": {
-    "start": "parcel public/index.html --open",
-    "build": "parcel build public/index.html",
+    "start": "parcel ",
+    "build": "parcel build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
